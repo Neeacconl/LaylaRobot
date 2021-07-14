@@ -91,11 +91,7 @@ def totranslate(update: Update, context: CallbackContext):
 
 
 __help__ = """
- ❍ /tr or /tl (language code) as reply to a long message
-*Example:* 
- ❍ /tr en*:* translates something to english
- ❍ /tr hi-en*:* translates hindi to english
-
+ G-Trans Google Translater Lib Is Active Now. 
 *Language Codes*
 `af,am,ar,az,be,bg,bn,bs,ca,ceb,co,cs,cy,da,de,el,en,eo,es,
 et,eu,fa,fi,fr,fy,ga,gd,gl,gu,ha,haw,hi,hmn,hr,ht,hu,hy,
